@@ -1,5 +1,0 @@
-*.db
-*.env
-*.log
-.history/
-__pycache__/
